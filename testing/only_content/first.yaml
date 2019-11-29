@@ -1,4 +1,14 @@
-staging:
-  A: 2
-  B: 3
-  c: 4
+first:
+  pod999:
+    A: 2
+    B: 3
+    c: 4
+  pod123:
+    SAM: 5
+second:
+  pod999:
+    A1: 12
+    B12: 13
+    C14: 14
+  pod13:
+    SS1: 4
